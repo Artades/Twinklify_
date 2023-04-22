@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  @apply h-full bg-black;
+}
+body {
+  @apply h-full bg-black;
+}
+
+.container{
+  @apply h-full min-h-[100vh] max-w-[860px] mx-auto my-10
+}
