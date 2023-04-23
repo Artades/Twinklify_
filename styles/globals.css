@@ -10,5 +10,5 @@ body {
 }
 
 .container{
-  @apply h-full min-h-[100vh] max-w-[860px] mx-auto my-10
+  @apply h-full min-h-[100vh] max-w-[860px] mx-auto 
 }
